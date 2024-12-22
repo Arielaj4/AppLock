@@ -19,4 +19,9 @@
    "devices": ["22101316GD8AB622882CCD482"],
    "expiry": "22-01-2025 12:00 PM"
 },
+   "Syahrul": {
+   "password": "$2y$12$FQtGliapD0ophXQcfvArkOxCoe8L22w693o0j.0V7hmhfu.V37eZq",
+   "devices": ["VIVO1918EDAC5D3DEE960F64"],
+   "expiry": "23-01-2025 12:00 PM"
+},
 }
