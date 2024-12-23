@@ -34,4 +34,9 @@
    "devices": ["CPH2127FD67C4FC74E5D311"],
    "expiry": "23-01-2025 12:00 PM"
 },
+   "Putra": {
+   "password": "$2y$12$kJQNggnDrBZBsuRZtgGU9.oSgmSXmbmhwyF39hyuh/1sfVF2Ns466",
+   "devices": ["RMX2180AF52417F1C53E8D1"],
+   "expiry": "30-12-2024 12:00 PM"
+},
 }
