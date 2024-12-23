@@ -79,4 +79,9 @@
    "devices": ["VIVO190439D51E8D0AAE23EA"],
    "expiry": "31-01-2025 12:00 PM"
 },
+   "Iqbal": {
+   "password": "$2y$12$IeGz9GujledGyjcHVqSwTevQgL.aZ6yrqc9YoDZhNpQ/p32iF.IfO",
+   "devices": ["VIVO2019C25A9AE9345C8AE9"],
+   "expiry": "23-01-2025 12:00 PM"
+},
 }
