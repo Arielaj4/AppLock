@@ -24,4 +24,9 @@
    "devices": ["VIVO1918EDAC5D3DEE960F64"],
    "expiry": "23-01-2025 12:00 PM"
 },
+   "test": {
+   "password": "$2y$12$OVQJGjEHUrt7P/Ydn6kMxe9s705Z7KVJ3ydA6B5ziJC51bZQJ9ozm",
+   "devices": ["M2010J19CG34F721458C9DEA50"],
+   "expiry": "31-12-2024 12:00 PM"
+},
 }
