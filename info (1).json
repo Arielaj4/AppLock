@@ -99,4 +99,9 @@
    "devices": ["220733SGE330614EB5DE3958"],
    "expiry": "19-01-2025 12:00 PM"
 },
+   "Dede": {
+   "password": "$2y$12$WMNbSKDVBQYcSVwg5LmShOMQcJf9TXpDNewZTHgXPTGj8khoDO95e",
+   "devices": ["23108RN04Y873D6BECA128CBF9"],
+   "expiry": "02-01-2025 12:00 PM"
+},
 },
