@@ -74,4 +74,9 @@
    "devices": ["TECNOLH6NC6C7D9742E4674F0"],
    "expiry": "23-02-2025 12:00 PM"
 },
+   "Maulana": {
+   "password": "$2y$12$t.0OBhTHnEV7LYlhirVhzO0pjsZRzVyNRckoArBPxZWxQC/Jo.8vi",
+   "devices": ["VIVO190439D51E8D0AAE23EA"],
+   "expiry": "31-01-2025 12:00 PM"
+},
 }
