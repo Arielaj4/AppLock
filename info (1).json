@@ -94,9 +94,9 @@
    "devices": ["RMX2030D58B8BCA4975E86E"],
    "expiry": "15-01-2025 12:00 PM"
 },
-   
-}"Azka": {
-   "password": "$2y$12$wIPPJKngozJbNyoinI/uq.UN.hZHZZ7PYTHA2sfLGCKTarmI6fQse",
+   "Azka": {
+   "password": "$2y$12$G8lUsyBqCjzsR9GR9SI3M.oClZFBS5k5zCITZP.F//qAFv2djCi/C",
    "devices": ["220733SGE330614EB5DE3958"],
    "expiry": "19-01-2025 12:00 PM"
+},
 },
