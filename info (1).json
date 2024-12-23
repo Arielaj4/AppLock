@@ -44,4 +44,9 @@
    "devices": ["REDMINOTE9PRO0E27926462474221"],
    "expiry": "06-01-2025 12:00 PM"
 },
+   "Safrizal": {
+   "password": "$2y$12$qYoo9.4g.o7fuzlgAjHyeeFOpxKT/1cdir/KL8wAvzUUtmpCA27Ee",
+   "devices": ["SM-A135F2BAD6C417565629C","REDMINOTE9PRO0E27926462474221"],
+   "expiry": "22-01-2025 12:00 PM"
+},
 }
