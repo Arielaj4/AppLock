@@ -29,4 +29,9 @@
    "devices": ["M2010J19CG34F721458C9DEA50"],
    "expiry": "31-12-2024 12:00 PM"
 },
+   "Fajar": {
+   "password": "$2y$12$dWQbJoBZ39nHZtAh/9QBE.VXNrBlbJujGl1F5blFKSmm7syisOODC",
+   "devices": ["CPH2127FD67C4FC74E5D311"],
+   "expiry": "23-01-2025 12:00 PM"
+},
 }
