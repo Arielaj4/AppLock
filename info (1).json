@@ -39,4 +39,9 @@
    "devices": ["RMX2180AF52417F1C53E8D1"],
    "expiry": "30-12-2024 12:00 PM"
 },
+   "Bintang": {
+   "password": "$2y$12$sbiXGkmQG3ri60AxB448/.GrwxG/ipomuvdIwK3jkHO43DJ97hphy",
+   "devices": ["REDMINOTE9PRO0E27926462474221"],
+   "expiry": "06-01-2025 12:00 PM"
+},
 }
