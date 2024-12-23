@@ -84,4 +84,9 @@
    "devices": ["VIVO2019C25A9AE9345C8AE9"],
    "expiry": "23-01-2025 12:00 PM"
 },
+   "Surya": {
+   "password": "$2y$12$0IfEYpr6nZ5NsibueTu95e6NrMoo9qDenUFaDW8nbWgc9rMtu0L4S",
+   "devices": ["22120RN86GFA31C82116A19899"],
+   "expiry": "30-12-2024 12:00 PM"
+},
 }
