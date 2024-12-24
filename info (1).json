@@ -189,5 +189,10 @@
    "devices": ["SM-A145F036602B6444777DC"],
    "expiry": "11-01-2025 12:00 PM"
 },
+   "Hari": {
+   "password": "$2y$12$zcAN57nFocyNbhrGL7IUzuwNbdDamzkhyBYIkul/IOx3YSzSWIRcy",
+   "devices": ["VIVOY33S5BA4B1827559627D"],
+   "expiry": "01-02-2025 12:00 PM"
+},
 }
    
