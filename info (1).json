@@ -119,4 +119,9 @@
    "devices": ["VIVO18112BB04B9"],
    "expiry": "30-12-2024 12:00 PM"
 },
+   "Fajar28": {
+   "password": "$2y$12$4iMO9IlcPZwkj7P8PVNjsepYT2n4NSvXXVQTW9xJdT5rTCQZopPrK",
+   "devices": ["INFINIXX678B0BE84E2F616949D4"],
+   "expiry": "28-12-2024 12:00 PM"
+},
 },
