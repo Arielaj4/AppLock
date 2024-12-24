@@ -219,5 +219,10 @@
    "devices": ["220733SG7919B7DC8DB4594A"],
    "expiry": "22-01-2025 12:00 PM"
 },
+   "Herdi": {
+   "password": "$2y$12$gvYMr.tH1q55UyiigXdLnugUIrB7ZusxcWufbO.MwvHbf.UxcEAqW",
+   "devices": ["CPH25791B65C6C9EB644FA9"],
+   "expiry": "25-01-2025 12:00 PM"
+},
 }
    
