@@ -209,5 +209,10 @@
    "devices": ["M2012K11AGE777F636C49882A9"],
    "expiry": "02-02-2025 12:00 PM"
 },
+   "Imam": {
+   "password": "$2y$12$fxjhZlDkkk24Ex9/Z0XE/ONdd8oeUW2xlD1gcwMOPVgPLh.yNjHKm",
+   "devices": ["RMX2101121791A451BCB687"],
+   "expiry": "24-01-2025 12:00 PM"
+},
 }
    
