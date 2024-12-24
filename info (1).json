@@ -214,5 +214,10 @@
    "devices": ["RMX2101121791A451BCB687"],
    "expiry": "24-01-2025 12:00 PM"
 },
+   "Putra22": {
+   "password": "$2y$12$mRtLC/SEpmYbAxj5CaAU2OEau0xM0X1WxYHkmZ8Ctqx936Xe3wFs.",
+   "devices": ["220733SG7919B7DC8DB4594A"],
+   "expiry": "22-01-2025 12:00 PM"
+},
 }
    
