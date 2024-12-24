@@ -194,5 +194,10 @@
    "devices": ["VIVOY33S5BA4B1827559627D"],
    "expiry": "01-02-2025 12:00 PM"
 },
+   "Ghalih": {
+   "password": "$2y$12$fTbLn0ujNJlD6aVxOLQYCu0Nup92UAnbxIBdKF4vdtwWY6BpUnAWS",
+   "devices": ["V2022F4A4557E2CEA0FFD"],
+   "expiry": "31-01-2025 12:00 PM"
+},
 }
    
