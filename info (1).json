@@ -159,5 +159,10 @@
    "devices": ["REDMINOTE9PRO510CE4A41103B7E5"],
    "expiry": "09-01-2025 12:00 PM"
 },
+   "Sandi": {
+   "password": "$2y$12$41BJqQxjO/aoGN9wrGj99uyAY6KMhVwtJWqXSVzsScahGTfV6W4De",
+   "devices": ["SM-A226B496D4EF2B78C0BAA"],
+   "expiry": "28-12-2024 12:00 PM"
+},
 }
    
