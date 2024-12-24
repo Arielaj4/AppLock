@@ -124,4 +124,9 @@
    "devices": ["INFINIXX678B0BE84E2F616949D4"],
    "expiry": "28-12-2024 12:00 PM"
 },
+   "Pipin": {
+   "password": "$2y$12$O7Anol./F9ceR653rnHob.5OEnD46tz/RZdtosdV2DDHel35r4lje",
+   "devices": ["SM-A155FDE3828786FCF95B6"],
+   "expiry": "20-01-2025 12:00 PM"
+},
 },
