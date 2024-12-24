@@ -134,4 +134,9 @@
    "devices": ["SM-A035FF30655F82D698369"],
    "expiry": "03-01-2025 12:00 PM"
 },
+   "Teguh": {
+   "password": "$2y$12$1d/CmH6AFvES.6yOiWuituV5VncuDkOhtqX7K14JBFefsHQAKlAsy",
+   "devices": ["CPH26314D9F9DCA00F373BA"],
+   "expiry": "01-01-2025 12:00 PM"
+},
 },
