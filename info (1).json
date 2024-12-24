@@ -114,4 +114,9 @@
    "devices": ["INFINIXX6833B0D632ED3512B3DEB"],
    "expiry": "16-01-2025 12:00 PM"
 },
+   "Rudianto": {
+   "password": "$2y$12$VNbu61nQSUtR1l0Qz3edAepHNqc9dFHSKc1Q.2cj4/hVaO4qVZNUu",
+   "devices": ["VIVO18112BB04B9"],
+   "expiry": "30-12-2024 12:00 PM"
+},
 },
