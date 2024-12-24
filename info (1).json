@@ -179,5 +179,10 @@
    "devices": ["SM-A315G2D116B057EAE386D"],
    "expiry": "24-01-2025 12:00 PM"
 },
+   "Taufiq": {
+   "password": "$2y$12$vqEhCb2V.42qSKvC/rwObea8jLUKuMIzVXSaBC7uawk3VbHE.7rQa",
+   "devices": ["VIVO192039180F97CE6DA195"],
+   "expiry": "31-12-2024 12:00 PM"
+},
 }
    
