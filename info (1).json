@@ -164,5 +164,10 @@
    "devices": ["SM-A226B496D4EF2B78C0BAA"],
    "expiry": "28-12-2024 12:00 PM"
 },
+   "Ramot": {
+   "password": "$2y$12$sqnn65UarUKe5Mxc6zFzf.jA/5J3ZgXEwyYN9EKeek5r6dt2aNpm2",
+   "devices": ["2201116TG494CABD0550B3E89"],
+   "expiry": "30-12-2025 12:00 PM"
+},
 }
    
