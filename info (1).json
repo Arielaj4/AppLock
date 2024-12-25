@@ -224,5 +224,10 @@
    "devices": ["CPH25791B65C6C9EB644FA9"],
    "expiry": "25-01-2025 12:00 PM"
 },
+   "Singgih": {
+   "password": "$2y$12$.BHaSrmp0e5VtzNWC2j6huSGFXni4.gv6X.OiLV1Uzw6w3zYZ1TZy",
+   "devices": ["SM-A505FAC54E5C09ABFACB3"],
+   "expiry": "27-12-2024 12:00 PM"
+},
 }
    
