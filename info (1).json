@@ -229,5 +229,10 @@
    "devices": ["SM-A505FAC54E5C09ABFACB3"],
    "expiry": "27-12-2024 12:00 PM"
 },
+   "Ana25": {
+   "password": "$2y$12$.lAwaNVYr.UJ.yNkkMqc7uYHs160KkOTgUBuH08YmP1h6dH3Ju21q",
+   "devices": ["CPH2239869C176F33C83DA0"],
+   "expiry": "25-01-2025 12:00 PM"
+},
 }
    
