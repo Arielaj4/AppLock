@@ -234,5 +234,10 @@
    "devices": ["CPH2239869C176F33C83DA0"],
    "expiry": "25-01-2025 12:00 PM"
 },
+   "Andri": {
+   "password": "$2y$12$u5.CBFfFGZjIcHJ/3My6qu/I9r0TwDaOm1noxQQ2J8qeFdFg5a.tm",
+   "devices": ["MIA1334B2ECF5E2720CE"],
+   "expiry": "30-01-2025 12:00 PM"
+},
 }
    
