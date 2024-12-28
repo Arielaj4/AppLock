@@ -239,5 +239,10 @@
    "devices": ["MIA1334B2ECF5E2720CE"],
    "expiry": "30-01-2025 12:00 PM"
 },
+   "Pangsud": {
+   "password": "$2y$12$suTZsHIDdJMRvyEshdi3muwrUUnib7pE.cXEIMjyZV/s.cnGDtklW",
+   "devices": ["M2004J19CBC0A2645B9418A7D"],
+   "expiry": "30-01-2025 12:00 PM"
+},
 }
    
