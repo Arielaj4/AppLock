@@ -274,5 +274,10 @@
    "devices": ["TECNO BG7n - 2f493765bd810d2d"],
    "expiry": "25-01-2025 12:00 PM"
 },
+   "Deden": {
+   "password": "$2y$12$zFQ2SpkAXWeCBACKQXqKIedO9a02J3ax.XaQPfqWqEyu3yP6ir91K",
+   "devices": ["CPH2577FA0CA766E2D5A1E5"],
+   "expiry": "17-01-2025 12:00 PM"
+},
 }
    
