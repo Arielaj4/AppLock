@@ -279,5 +279,10 @@
    "devices": ["CPH2577FA0CA766E2D5A1E5"],
    "expiry": "17-01-2025 12:00 PM"
 },
+   "Idun": {
+   "password": "$2y$12$i3sEWmO55H7JNO7tLfwWQeVUpfDk2mr98EcaRu4SJak8uXD/R2YkO",
+   "devices": ["SM-J730G0D981B0ADA642A4D"],
+   "expiry": "25-01-2025 12:00 PM"
+},
 }
    
