@@ -264,5 +264,10 @@
    "devices": ["INFINIXX6627FACAB44162359E9"],
    "expiry": "25-01-2025 12:00 PM"
 },
+   "Hilma": {
+   "password": "$2y$12$1ERuNyOqEm4S.tBYNNPxceefbRNBWD2yW/tfTXRIFWzy7oItHsOT6",
+   "devices": ["M2102J20SGB642E1D28C792283"],
+   "expiry": "05-01-2025 12:00 PM"
+},
 }
    
