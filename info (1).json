@@ -294,5 +294,10 @@
    "devices": ["MIA12C5AB274A29B3735"],
    "expiry": "22-01-2025 12:00 PM"
 },
+   "Gungun": {
+   "password": "$2y$12$mCEZtpwX3b7CBmwQQXdfV.mBPXd4.HUEAL.gNb1YiIQh8ocwojfye",
+   "devices": ["CPH2471A7EE4BBE5945A96D"],
+   "expiry": "30-01-2025 12:00 PM"
+},
 }
    
