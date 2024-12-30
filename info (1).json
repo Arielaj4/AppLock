@@ -284,5 +284,10 @@
    "devices": ["SM-J730G0D981B0ADA642A4D"],
    "expiry": "25-01-2025 12:00 PM"
 },
+   "Wisnu": {
+   "password": "$2y$12$tXHSnQ89TO/o3FvhfSHvI./6NBm6bqnUV5Rj0DKlFvQLfVyQA5aL6",
+   "devices": ["INFINIXX689E3B27AE6211D59BD"],
+   "expiry": "30-01-2025 12:00 PM"
+},
 }
    
