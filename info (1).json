@@ -269,5 +269,10 @@
    "devices": ["M2102J20SGB642E1D28C792283"],
    "expiry": "05-01-2025 12:00 PM"
 },
+   "Partono": {
+   "password": "$2y$12$YitBEO.3amGVlND9FCvEBuM273IFNmLnpkWYV3ToIUjCHqWv9iBWy",
+   "devices": ["TECNO BG7n - 2f493765bd810d2d"],
+   "expiry": "25-01-2025 12:00 PM"
+},
 }
    
