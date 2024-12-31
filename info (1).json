@@ -329,5 +329,10 @@
    "devices": ["M2004J19CBC0A2645B9418A7D"],
    "expiry": "30-01-2025 12:00 PM"
 },
+   "Ananto": {
+   "password": "$2y$12$xcfgn7xJmpIoaQZqcnKruOd/QA80Eu1Sc0gNXbbA27mUa9dFz.h22",
+   "devices": ["VIVO1904881686215EE9DD33"],
+   "expiry": "27-01-2025 12:00 PM"
+},
 }
    
