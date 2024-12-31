@@ -334,5 +334,10 @@
    "devices": ["VIVO1904881686215EE9DD33"],
    "expiry": "27-01-2025 12:00 PM"
 },
+   "Ordal": {
+   "password": "$2y$12$WCnUv0a7c4CHURrP9e96EOreVeFrQyik65yY1hPSFOr5/vqREvdS.",
+   "devices": ["REDMI6AFC712DC0D94B3382"],
+   "expiry": "30-01-2025 12:00 PM"
+},
 }
    
