@@ -319,5 +319,10 @@
    "devices": ["M2007J20CGE8658D00487ADF00"],
    "expiry": "26-01-2025 12:00 PM"
 },
+   "Amin": {
+   "password": "$2y$12$y00qtR7MWlrec0D/jOlWnuX91wDWtshHWaxn3JE8MWcfwgR9.YRNW",
+   "devices": ["CPH2185DD1EEDC89B0E0C0C"],
+   "expiry": "01-02-2025 12:00 PM"
+},
 }
    
