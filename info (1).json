@@ -159,11 +159,6 @@
    "devices": ["SM-A226B496D4EF2B78C0BAA"],
    "expiry": "28-01-2025 12:00 PM"
 },
-   "Ramot": {
-   "password": "$2y$12$sqnn65UarUKe5Mxc6zFzf.jA/5J3ZgXEwyYN9EKeek5r6dt2aNpm2",
-   "devices": ["2201116TG494CABD0550B3E89"],
-   "expiry": "30-12-2025 12:00 PM"
-},
    "Raka": {
    "password": "$2y$12$N4jOcG0makhMzQhzjy48se09OU4qz1GgRDCa.pbPT.o72IEJ7hLN2",
    "devices": ["V2207855BC207AAB956E6"],
@@ -338,6 +333,11 @@
    "password": "$2y$12$WCnUv0a7c4CHURrP9e96EOreVeFrQyik65yY1hPSFOr5/vqREvdS.",
    "devices": ["REDMI6AFC712DC0D94B3382"],
    "expiry": "30-01-2025 12:00 PM"
+},
+   "Ramot": {
+   "password": "$2y$12$lpwQuKTOhLpiouq08GdZ/.10v6W.8Qk3d8jkEGOtb/jwVF2i.UOr6",
+   "devices": ["2201116TG494CABD0550B3E89"],
+   "expiry": "31-01-2025 12:00 PM"
 },
 }
    
