@@ -304,5 +304,10 @@
    "devices": ["TECNOBG7N2F493765BD810D2D"],
    "expiry": "25-01-2025 12:00 PM"
 },
+   "Yogi": {
+   "password": "$2y$12$48RICf.Imd3bn5QvcH3RquRycI9G6Mq94MO881E0IBE.XxEjmFEKm",
+   "devices": ["SM-A325F5FF65651E4CB4484"],
+   "expiry": "06-01-2025 12:00 PM"
+},
 }
    
