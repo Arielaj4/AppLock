@@ -314,5 +314,10 @@
    "devices": ["SM-A042F052D36D8E485A780"],
    "expiry": "20-01-2025 12:00 PM"
 },
+   "Reza": {
+   "password": "$2y$12$wTf2M/dRqZYkWlyxCYB.BuPd2RPSvd6rE2cSmYwavWr1V.qoL927G",
+   "devices": ["M2007J20CGE8658D00487ADF00"],
+   "expiry": "26-01-2025 12:00 PM"
+},
 }
    
