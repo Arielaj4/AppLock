@@ -309,5 +309,10 @@
    "devices": ["SM-A325F5FF65651E4CB4484"],
    "expiry": "06-01-2025 12:00 PM"
 },
+   "Dave": {
+   "password": "$2y$12$cEDEZTwYN1ryDzTMKiabx.cS8Mz78qhEDOe8EhgVuvHO8bjzdfVJy",
+   "devices": ["SM-A042F052D36D8E485A780"],
+   "expiry": "20-01-2025 12:00 PM"
+},
 }
    
