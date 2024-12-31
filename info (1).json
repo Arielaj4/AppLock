@@ -324,5 +324,10 @@
    "devices": ["CPH2185DD1EEDC89B0E0C0C"],
    "expiry": "01-02-2025 12:00 PM"
 },
+   "Kaka": {
+   "password": "$2y$12$HB5.4Hw.4ro7iGM.LruBqOvBhvQFnLngYLrQrsfY4LL8Vc4JoyBnC",
+   "devices": ["M2004J19CBC0A2645B9418A7D"],
+   "expiry": "30-01-2025 12:00 PM"
+},
 }
    
