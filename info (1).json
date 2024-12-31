@@ -299,5 +299,10 @@
    "devices": ["SM-A065FC7AE0836E80213F4"],
    "expiry": "30-01-2025 12:00 PM"
 },
+   "Daeng": {
+   "password": "$2y$12$ze5fzgY7mWb3zsQVbWHMPOdJSzfzyuJbBpTtROzefFPbOlRAVUikm",
+   "devices": ["CPH2477B418EB9D1AC455D5"],
+   "expiry": "20-01-2025 12:00 PM"
+},
 }
    
