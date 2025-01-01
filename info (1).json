@@ -354,5 +354,10 @@
    "devices": ["VIVO190439D51E8D0AAE23EA"],
    "expiry": "23-01-2025 12:00 PM"
 },
+   "Ryan": {
+   "password": "$2y$12$gQ7qjbR4F.Pja4JGW.5yI.0bBMFeUttHWfhGvU7IGROICJiMsY3ne",
+   "devices": ["REDMINOTE9PRO6207100DD17BCAA1"],
+   "expiry": "01-02-2025 12:00 PM"
+},
 }
    
