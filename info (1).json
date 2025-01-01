@@ -349,5 +349,10 @@
    "devices": ["INFINIXX6525435196ED15C5D73B"],
    "expiry": "11-01-2025 12:00 PM"
 },
+   "Hapis": {
+   "password": "$2y$12$jxB0lDPUZzhM0rVcz1wvyuhHDcoGtwYrzqdv.1yMKqa1h.YShP6B6",
+   "devices": ["VIVO190439D51E8D0AAE23EA"],
+   "expiry": "23-01-2025 12:00 PM"
+},
 }
    
