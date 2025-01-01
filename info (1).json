@@ -364,5 +364,10 @@
    "devices": ["VIVO192039180F97CE6DA195"],
    "expiry": "30-01-2025 12:00 PM"
 },
+   "Akbar": {
+   "password": "$2y$12$b8nuQ4PVsek00oeVBejJi.XwE70F2hJRXa3Hk1e.e/E5zSAjLnNZO",
+   "devices": ["REDMINOTE8PRO3B85B340722FEE3F"],
+   "expiry": "01-02-2025 12:00 PM"
+},
 }
    
