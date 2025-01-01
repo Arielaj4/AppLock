@@ -359,5 +359,10 @@
    "devices": ["REDMINOTE9PRO6207100DD17BCAA1"],
    "expiry": "01-02-2025 12:00 PM"
 },
+   "Taufiq": {
+   "password": "$2y$12$KKEwzY2TCKs0R3JNPP2THuf2rgaVM8AxspuOdbKfC5n786u2HzeGK",
+   "devices": ["VIVO192039180F97CE6DA195"],
+   "expiry": "30-01-2025 12:00 PM"
+},
 }
    
