@@ -19,20 +19,10 @@
    "devices": ["VIVO1918EDAC5D3DEE960F64"],
    "expiry": "23-01-2025 12:00 PM"
 },
-   "test": {
-   "password": "$2y$12$OVQJGjEHUrt7P/Ydn6kMxe9s705Z7KVJ3ydA6B5ziJC51bZQJ9ozm",
-   "devices": ["M2010J19CGB824BC03E3DE3BB6"],
-   "expiry": "31-12-2024 12:00 PM"
-},
    "Fajar": {
    "password": "$2y$12$dWQbJoBZ39nHZtAh/9QBE.VXNrBlbJujGl1F5blFKSmm7syisOODC",
    "devices": ["CPH2127FD67C4FC74E5D311"],
    "expiry": "23-01-2025 12:00 PM"
-},
-   "Putra": {
-   "password": "$2y$12$kJQNggnDrBZBsuRZtgGU9.oSgmSXmbmhwyF39hyuh/1sfVF2Ns466",
-   "devices": ["RMX2180AF52417F1C53E8D1"],
-   "expiry": "30-12-2024 12:00 PM"
 },
    "Bintang": {
    "password": "$2y$12$sbiXGkmQG3ri60AxB448/.GrwxG/ipomuvdIwK3jkHO43DJ97hphy",
@@ -103,11 +93,6 @@
    "password": "$2y$12$keDt8TLQ/T15YIRUPZ6/5emAm8IkzIbGluo.bY.HX9jHnv25xJiHW",
    "devices": ["VIVO18112BB04B9"],
    "expiry": "30-01-2025 12:00 PM"
-},
-   "Fajar28": {
-   "password": "$2y$12$4iMO9IlcPZwkj7P8PVNjsepYT2n4NSvXXVQTW9xJdT5rTCQZopPrK",
-   "devices": ["INFINIXX678B0BE84E2F616949D4"],
-   "expiry": "28-12-2024 12:00 PM"
 },
    "Pipin": {
    "password": "$2y$12$O7Anol./F9ceR653rnHob.5OEnD46tz/RZdtosdV2DDHel35r4lje",
