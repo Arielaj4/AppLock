@@ -59,11 +59,6 @@
    "devices": ["CPH19696B48B2EAA82DCCC0"],
    "expiry": "26-01-2025 12:00 PM"
 },
-   "Ryan": {
-   "password": "$2y$12$P2wdWVxnGNq9ZNH4NBFcKuRr6AKp6ZuKx9U9ky/fcj1Dlm3WXcSnm",
-   "devices": ["23021RAA2Y178D130491D7B1DA"],
-   "expiry": "29-12-2024 12:00 PM"
-},
    "Yahya": {
    "password": "$2y$12$1t57g92236F7dPRTWZxzu.qx1nnPnL2L24mwDieBJdxkgpYQaqI7q",
    "devices": ["TECNOLH6NC6C7D9742E4674F0"],
