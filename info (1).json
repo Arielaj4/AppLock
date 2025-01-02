@@ -99,11 +99,6 @@
    "devices": ["SM-A155FDE3828786FCF95B6"],
    "expiry": "20-01-2025 12:00 PM"
 },
-   "Riko": {
-   "password": "$2y$12$xZY7McIjpdqlbvWFKL2Y1u.BQgdk1F8hyKPsuqAu2Lcl9zsfmhm1O",
-   "devices": ["SM-A035FF30655F82D698369"],
-   "expiry": "03-01-2025 12:00 PM"
-},
    "Teguh": {
    "password": "$2y$12$imuymU85kslwSxLZLJb2JODZc4gnIElyjMe.q8EVg/ittrat.jpXG",
    "devices": ["CPH26314D9F9DCA00F373BA"],
@@ -353,6 +348,11 @@
    "password": "$2y$12$ysPXMWC9u.pCseBa/0/z6.STNKOHtI77280YO/zpT51kp1H0VUhZG",
    "devices": ["M2007J20CGFC7DC94E38E8E50F"],
    "expiry": "27-01-2025 12:00 PM"
+},
+   "Riko": {
+   "password": "$2y$12$pgjNJNMNgjBEAon1XmwAbe4AtqkTeOJU.PuNeuwGmLBnknaFeNNeG",
+   "devices": ["SM-A035FF30655F82D698369"],
+   "expiry": "03-02-2025 12:00 PM"
 },
 }
    
