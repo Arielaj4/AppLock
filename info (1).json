@@ -354,5 +354,10 @@
    "devices": ["V2207855BC207AAB956E6"],
    "expiry": "24-01-2025 12:00 PM"
 },
+   "Nanang": {
+   "password": "$2y$12$KBH2JeRBU3ivNpIfB7GmWOUd/PcYNDxfiRMd9/kEItloirLK.V.5K",
+   "devices": ["SM-A515FBD3FE480B8E92198"],
+   "expiry": "02-02-2025 12:00 PM"
+},
 }
    
