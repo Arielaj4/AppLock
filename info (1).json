@@ -369,5 +369,10 @@
    "devices": ["SM-A155FD4E0651B7B23E009"],
    "expiry": "02-02-2025 12:00 PM"
 },
+   "Sarmoko": {
+   "password": "$2y$12$ysPXMWC9u.pCseBa/0/z6.STNKOHtI77280YO/zpT51kp1H0VUhZG",
+   "devices": ["M2007J20CGFC7DC94E38E8E50F"],
+   "expiry": "27-01-2025 12:00 PM"
+},
 }
    
