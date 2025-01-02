@@ -364,5 +364,10 @@
    "devices": ["CPH2591F706BB19EDD26969"],
    "expiry": "03-02-2025 12:00 PM"
 },
+   "Ryan28": {
+   "password": "$2y$12$Jd7IdiELabKleclgn06CDuUULBBkj7q.Nyyli03BGDq3ukz4fFgY6",
+   "devices": ["23021RAA2Y178D130491D7B1DA"],
+   "expiry": "28-01-2025 12:00 PM"
+},
 }
    
