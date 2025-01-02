@@ -349,5 +349,10 @@
    "devices": ["M2101K7BNY22163735300D0004"],
    "expiry": "21-01-2025 12:00 PM"
 },
+   "Raka": {
+   "password": "$2y$12$rXPC69ZviHtV2s/.4pxBy.mXfWnijE1UguXWWwd5xoP8BLRkbBvWC",
+   "devices": ["V2207855BC207AAB956E6"],
+   "expiry": "24-01-2025 12:00 PM"
+},
 }
    
