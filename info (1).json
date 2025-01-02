@@ -364,5 +364,10 @@
    "devices": ["REDMINOTE8PRO3B85B340722FEE3F"],
    "expiry": "01-02-2025 12:00 PM"
 },
+   "Suprayogi": {
+   "password": "$2y$12$vfGiGee07bSXq9BHJbc9genOwvu96iy8DRe2WjPMltWfzgRzFvZ3e",
+   "devices": ["SM-A155FD4E0651B7B23E009"],
+   "expiry": "02-02-2025 12:00 PM"
+},
 }
    
