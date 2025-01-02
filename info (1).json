@@ -344,5 +344,10 @@
    "devices": ["SM-A035FF30655F82D698369"],
    "expiry": "03-02-2025 12:00 PM"
 },
+   "Harun": {
+   "password": "$2y$12$.8.ouULeCRqGWVojogEk6Okx.5F49wNLcuEqJzNNDHEQcaLMSZph2",
+   "devices": ["M2101K7BNY22163735300D0004"],
+   "expiry": "21-01-2025 12:00 PM"
+},
 }
    
