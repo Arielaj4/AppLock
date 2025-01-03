@@ -354,11 +354,6 @@
    "devices": ["SM-A515FBD3FE480B8E92198"],
    "expiry": "02-02-2025 12:00 PM"
 },
-   "Ilyas": {
-   "password": "$2y$12$Ej4tMIJIqXyAQytX136jDeCcC/dlSb/W5npBCFp9kgcx5uzBTbiWS",
-   "devices": ["CPH2591F706BB19EDD26969"],
-   "expiry": "03-02-2025 12:00 PM"
-},
    "Ryan28": {
    "password": "$2y$12$Jd7IdiELabKleclgn06CDuUULBBkj7q.Nyyli03BGDq3ukz4fFgY6",
    "devices": ["23021RAA2Y178D130491D7B1DA"],
@@ -387,6 +382,11 @@
    "Alay": {
    "password": "$2y$12$yftCDrpaxx1YXew3Sm7b2ekj90o/ZHsdEZ/.aNImO/l2lIiajQUjq",
    "devices": ["SM-A715F97ECD310922341BD"],
+   "expiry": "03-02-2025 12:00 PM"
+},
+   "Ilyas": {
+   "password": "$2y$12$YZAmUYPoZ0uPGojMQEE2/uIeFT9LSzP.UuRYhA1uODHBWRrxyWRxG",
+   "devices": ["SM-A105G61E3370E77137D6E"],
    "expiry": "03-02-2025 12:00 PM"
 },
 }
