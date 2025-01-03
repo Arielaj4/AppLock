@@ -379,5 +379,10 @@
    "devices": ["23108RN04Y58CF3951CD100302"],
    "expiry": "04-02-2025 12:00 PM"
 },
+   "Parung": {
+   "password": "$2y$12$mRWy.WQ4AjK5Bux7blSnH./VcWmTgY7oqXeIkwpdOdEWwLApSh/V6",
+   "devices": ["220333QPG489477A489637F6A"],
+   "expiry": "14-01-2025 12:00 PM"
+},
 }
    
