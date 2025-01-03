@@ -384,5 +384,10 @@
    "devices": ["220333QPG489477A489637F6A"],
    "expiry": "14-01-2025 12:00 PM"
 },
+   "Alay": {
+   "password": "$2y$12$yftCDrpaxx1YXew3Sm7b2ekj90o/ZHsdEZ/.aNImO/l2lIiajQUjq",
+   "devices": ["SM-A715F97ECD310922341BD"],
+   "expiry": "03-02-2025 12:00 PM"
+},
 }
    
