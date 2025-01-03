@@ -79,11 +79,6 @@
    "devices": ["23108RN04Y873D6BECA128CBF9"],
    "expiry": "02-01-2025 12:00 PM"
 },
-   "Hidayat": {
-   "password": "$2y$12$Fix1mDwAnPoUwzwA6rJeb.uvJUQrkgOCNu7s/xRJywYU13eyccByG",
-   "devices": ["23108RN04Y58CF3951CD100302"],
-   "expiry": "04-01-2025 12:00 PM"
-},
    "Ripan": {
    "password": "$2y$12$QX6eHu6ku0BkCky9gaxg5O7kxQ6lD3gMbarw029er8SkcHkmY5ub2",
    "devices": ["INFINIXX6833B0D632ED3512B3DEB"],
@@ -378,6 +373,11 @@
    "password": "$2y$12$LBA4e.krP4i3GVi/UV91L.3kf3CUMYz5rfeW52ry29i.0jFD1KLsK",
    "devices": ["M2101K7BNYFA3BB8D5C5C85C66"],
    "expiry": "03-02-2025 12:00 PM"
+},
+   "Hidayat": {
+   "password": "$2y$12$q6BUJWg/eybsiDYUoJ5a0uBpgm6ul23wkYqqTCpxhjfJEJ25vTWnO",
+   "devices": ["23108RN04Y58CF3951CD100302"],
+   "expiry": "04-02-2025 12:00 PM"
 },
 }
    
