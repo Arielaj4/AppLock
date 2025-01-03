@@ -374,5 +374,10 @@
    "devices": ["SM-A145F5660282EC7211D03"],
    "expiry": "29-01-2025 12:00 PM"
 },
+   "Batak": {
+   "password": "$2y$12$LBA4e.krP4i3GVi/UV91L.3kf3CUMYz5rfeW52ry29i.0jFD1KLsK",
+   "devices": ["M2101K7BNYFA3BB8D5C5C85C66"],
+   "expiry": "03-02-2025 12:00 PM"
+},
 }
    
