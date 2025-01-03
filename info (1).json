@@ -369,5 +369,10 @@
    "devices": ["23021RAA2Y178D130491D7B1DA"],
    "expiry": "28-01-2025 12:00 PM"
 },
+   "Alwi": {
+   "password": "$2y$12$Jily8vjtHmGYX/bafL5nzuhcauCsGuIDTesvLIdujjHH3H6/I75bW",
+   "devices": ["SM-A145F5660282EC7211D03"],
+   "expiry": "29-01-2025 12:00 PM"
+},
 }
    
