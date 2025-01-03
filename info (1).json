@@ -159,11 +159,6 @@
    "devices": ["M2012K11AGE777F636C49882A9"],
    "expiry": "02-02-2025 12:00 PM"
 },
-   "Imam": {
-   "password": "$2y$12$fxjhZlDkkk24Ex9/Z0XE/ONdd8oeUW2xlD1gcwMOPVgPLh.yNjHKm",
-   "devices": ["RMX2101121791A451BCB687"],
-   "expiry": "24-01-2025 12:00 PM"
-},
    "Putra22": {
    "password": "$2y$12$mRtLC/SEpmYbAxj5CaAU2OEau0xM0X1WxYHkmZ8Ctqx936Xe3wFs.",
    "devices": ["220733SG7919B7DC8DB4594A"],
@@ -388,6 +383,16 @@
    "password": "$2y$12$lrqUZjtIXpHWrwQVGUjkNua.ev22ucXXr7w.YXOgMOg1xG4ls8FGS",
    "devices": ["M2102J20SGB642E1D28C792283"],
    "expiry": "05-02-2025 12:00 PM"
+},
+   "Imam": {
+   "password": "$2y$12$/uyUWFyULwvjtCTuf9Yyju/096zuqaFEt3BvJ9putZ63H7lG4k2TW",
+   "devices": ["22120RN86GB4793FE1136FD6C8"],
+   "expiry": "24-01-2025 12:00 PM"
+},
+   "Saputra": {
+   "password": "$2y$12$GVME6dsYzwj4vklARpsYnOQ15Jkk5MKqLzIX9ecIrCL6X.VYPtPha",
+   "devices": ["SM-A528BBE904EA547B51D72"],
+   "expiry": "03-02-2025 12:00 PM"
 },
 }
    
