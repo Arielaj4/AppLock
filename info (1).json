@@ -434,5 +434,10 @@
    "devices": ["INFINIXX683733638BAD348E5754"],
    "expiry": "04-02-2025 12:00 PM"
 },
+   "Loyo": {
+   "password": "$2y$12$DIsYCyhfNO3DmFyr8n2n0uTgswc1EvY7JS4q.lkKMQQzaWVw4H1Zu",
+   "devices": ["SM-A155FBE66C28FFAFB0556"],
+   "expiry": "30-01-2025 12:00 PM"
+},
 }
    
