@@ -424,5 +424,10 @@
    "devices": ["220733SG1E26CB66B3AA3B41"],
    "expiry": "30-01-2025 12:00 PM"
 },
+   "Ngaceng": {
+   "password": "$2y$12$GIivUd3HkgKN0BJFw/3v9O5I2rYZ9nekQ44/ltW8lYS/He.iU0zCq",
+   "devices": ["SM-A225F32A78F0F8DB2C3BD"],
+   "expiry": "30-01-2025 12:00 PM"
+},
 }
    
