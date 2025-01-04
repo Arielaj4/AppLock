@@ -409,5 +409,10 @@
    "devices": ["RMX350120B89970712CE6C0"],
    "expiry": "30-01-2025 12:00 PM"
 },
+   "Danar": {
+   "password": "$2y$12$pbQruHq2Sv0bE/jjBannFegRhwHKEXZe2bHzvx5KeUmBzslzzKsoK",
+   "devices": ["SM-M236BFD83397E867540D5"],
+   "expiry": "04-02-2025 12:00 PM"
+},
 }
    
