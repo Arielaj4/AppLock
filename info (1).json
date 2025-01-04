@@ -429,5 +429,10 @@
    "devices": ["SM-A225F32A78F0F8DB2C3BD"],
    "expiry": "30-01-2025 12:00 PM"
 },
+   "Sodok": {
+   "password": "$2y$12$z7IxJFClFSnlIk/GLzuKG.PrAyVi1oPb.hQpgizoseI3UfMNu.6kG",
+   "devices": ["INFINIXX683733638BAD348E5754"],
+   "expiry": "04-02-2025 12:00 PM"
+},
 }
    
