@@ -404,5 +404,10 @@
    "devices": ["23021RAA2YDB8297D38EF8DBFB"],
    "expiry": "04-02-2025 12:00 PM"
 },
+   "Darmawan": {
+   "password": "$2y$12$DPVRuIIjkqInf4Kl93jY0ev2VGbP2ERGRFRsgYdiV1zvt0GoSETRW",
+   "devices": ["RMX350120B89970712CE6C0"],
+   "expiry": "30-01-2025 12:00 PM"
+},
 }
    
