@@ -394,5 +394,10 @@
    "devices": ["SM-A528BBE904EA547B51D72"],
    "expiry": "03-02-2025 12:00 PM"
 },
+   "Gojek": {
+   "password": "$2y$12$jYSJakKkgIvrHILeY16AIu8qhIdCa64P6oXM4N4WPiQsmgSYikk9G",
+   "devices": ["M2010J19CGB4D8BF1EFA3A9427"],
+   "expiry": "04-02-2025 12:00 PM"
+},
 }
    
