@@ -399,5 +399,10 @@
    "devices": ["M2010J19CGB4D8BF1EFA3A9427"],
    "expiry": "04-02-2025 12:00 PM"
 },
+   "Angga": {
+   "password": "$2y$12$nSGxTIbIxFykd/nA5lfW4.m3mE/sTRnfi2u0jF0qmXLeSseiOQdvS",
+   "devices": ["23021RAA2YDB8297D38EF8DBFB"],
+   "expiry": "04-02-2025 12:00 PM"
+},
 }
    
