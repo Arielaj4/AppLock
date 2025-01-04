@@ -419,5 +419,10 @@
    "devices": ["Z24535EE533110B76234B"],
    "expiry": "30-01-2025 12:00 PM"
 },
+   "Letoy": {
+   "password": "$2y$12$AFDaNdvuoPW.pHQaM9b8zO6BXU642zpTOWpelA1fOpsTCBMlzn7be",
+   "devices": ["220733SG1E26CB66B3AA3B41"],
+   "expiry": "30-01-2025 12:00 PM"
+},
 }
    
