@@ -414,5 +414,10 @@
    "devices": ["SM-M236BFD83397E867540D5"],
    "expiry": "04-02-2025 12:00 PM"
 },
+   "Melehoy": {
+   "password": "$2y$12$Z0zBUZVfXWN1M/kLn3JkSuXx.WnDLKKBqfm.u8HyOoC1KQc2mqjyi",
+   "devices": ["Z24535EE533110B76234B"],
+   "expiry": "30-01-2025 12:00 PM"
+},
 }
    
