@@ -234,11 +234,6 @@
    "devices": ["TECNOBG7N2F493765BD810D2D"],
    "expiry": "25-01-2025 12:00 PM"
 },
-   "Yogi": {
-   "password": "$2y$12$48RICf.Imd3bn5QvcH3RquRycI9G6Mq94MO881E0IBE.XxEjmFEKm",
-   "devices": ["SM-A325F5FF65651E4CB4484"],
-   "expiry": "06-01-2025 12:00 PM"
-},
    "Dave": {
    "password": "$2y$12$cEDEZTwYN1ryDzTMKiabx.cS8Mz78qhEDOe8EhgVuvHO8bjzdfVJy",
    "devices": ["SM-A042F052D36D8E485A780"],
@@ -433,6 +428,11 @@
    "password": "$2y$12$pZ5s4timCe59gog2o1WxPOjXsW2CTU.xBw5JDa2Tyr/RII9t3HFmC",
    "devices": ["REDMINOTE9PRO0E27926462474221"],
    "expiry": "06-03-2025 12:00 PM"
+},
+   "Yogi": {
+   "password": "$2y$12$TPB6gU41PXgjPiovckWqbe8wQyRlEXFbyYk7InXZkI514vzjfKA/.",
+   "devices": ["SM-A325F5FF65651E4CB4484"],
+   "expiry": "06-02-2025 12:00 PM"
 },
 }
    
