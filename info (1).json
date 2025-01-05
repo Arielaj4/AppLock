@@ -24,11 +24,6 @@
    "devices": ["CPH2127FD67C4FC74E5D311"],
    "expiry": "23-01-2025 12:00 PM"
 },
-   "Bintang": {
-   "password": "$2y$12$sbiXGkmQG3ri60AxB448/.GrwxG/ipomuvdIwK3jkHO43DJ97hphy",
-   "devices": ["REDMINOTE9PRO0E27926462474221"],
-   "expiry": "06-01-2025 12:00 PM"
-},
    "Safrizal": {
    "password": "$2y$12$qYoo9.4g.o7fuzlgAjHyeeFOpxKT/1cdir/KL8wAvzUUtmpCA27Ee",
    "devices": ["SM-A135F2BAD6C417565629C"],
@@ -433,6 +428,11 @@
    "password": "$2y$12$qCFx8ucKAU0IHvXDsYOf9OcrWjEXWWew6swP6DoPhlnww7J4q7ge2",
    "devices": ["RMX2101121791A451BCB687"],
    "expiry": "24-01-2025 12:00 PM"
+},
+   "Bintang": {
+   "password": "$2y$12$pZ5s4timCe59gog2o1WxPOjXsW2CTU.xBw5JDa2Tyr/RII9t3HFmC",
+   "devices": ["REDMINOTE9PRO0E27926462474221"],
+   "expiry": "06-03-2025 12:00 PM"
 },
 }
    
