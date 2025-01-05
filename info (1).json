@@ -434,5 +434,10 @@
    "devices": ["SM-A145F036602B6444777DC"],
    "expiry": "11-02-2025 12:00 PM"
 },
+   "Tusbol": {
+   "password": "$2y$12$3Hxuhu9AHx45MmS55wbOzu3L28oRTMJ6yAiGkRT2qQFspONAL9gFe",
+   "devices": ["SM-A315G1459F5AA8DA52F75"],
+   "expiry": "05-02-2025 12:00 PM"
+},
 }
    
