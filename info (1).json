@@ -124,11 +124,6 @@
    "devices": ["SM-A315G2D116B057EAE386D"],
    "expiry": "24-01-2025 12:00 PM"
 },
-   "Eko11": {
-   "password": "$2y$12$L3ecJrqAF8eqP7zBtTfAWuwF.dA6mYWwR7ceBXcaoWex/M/gcTVei",
-   "devices": ["SM-A145F036602B6444777DC"],
-   "expiry": "11-01-2025 12:00 PM"
-},
    "Hari": {
    "password": "$2y$12$zcAN57nFocyNbhrGL7IUzuwNbdDamzkhyBYIkul/IOx3YSzSWIRcy",
    "devices": ["VIVOY33S5BA4B1827559627D"],
@@ -433,6 +428,11 @@
    "password": "$2y$12$TPB6gU41PXgjPiovckWqbe8wQyRlEXFbyYk7InXZkI514vzjfKA/.",
    "devices": ["SM-A325F5FF65651E4CB4484"],
    "expiry": "06-02-2025 12:00 PM"
+},
+   "Eko11": {
+   "password": "$2y$12$Ik9Y9AKDJ1cqo/nn75DZzeOXMgRbSvGg9UNTToDo4DU385gbPKNJS",
+   "devices": ["SM-A145F036602B6444777DC"],
+   "expiry": "11-02-2025 12:00 PM"
 },
 }
    
