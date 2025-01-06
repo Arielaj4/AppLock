@@ -449,5 +449,10 @@
    "devices": ["M2010J19CG902D5BEFDB6E8BE8"],
    "expiry": "06-02-2025 12:00 PM"
 },
+   "Ridwan": {
+   "password": "$2y$12$fbVLY.KSVeoyx9pvveVwv.FObJzg0LHe3pjP5iRn1Q9OFO/rLYI9G",
+   "devices": ["SM-M115F0259F3F3D14417BF"],
+   "expiry": "06-02-2025 12:00 PM"
+},
 }
    
