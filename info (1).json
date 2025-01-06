@@ -454,5 +454,10 @@
    "devices": ["SM-M115F0259F3F3D14417BF"],
    "expiry": "06-02-2025 12:00 PM"
 },
+   "Adil": {
+   "password": "$2y$12$/Nlk/4YWmmzKCLg88/dmSe2F4jPQo9d9pFeZAol84nFPqfNhB4VIS",
+   "devices": ["VIVO1814HYMJJ79LNRR8F6BQ"],
+   "expiry": "07-02-2025 12:00 PM"
+},
 }
    
