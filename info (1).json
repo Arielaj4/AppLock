@@ -434,5 +434,10 @@
    "devices": ["SM-A225F4873E82DCCB2A4D5"],
    "expiry": "23-01-2025 12:00 PM"
 },
+   "Subandi": {
+   "password": "$2y$12$zWI5HKysqzbtE/DSefQn..dTRErywRJywVRMbtF1/Pr./B4zrOzze",
+   "devices": ["CPH2631C12926274E2A846A"],
+   "expiry": "06-02-2025 12:00 PM"
+},
 }
    
