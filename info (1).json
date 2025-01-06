@@ -444,5 +444,10 @@
    "devices": ["RMX1911085BC40E20F5C604"],
    "expiry": "06-02-2025 12:00 PM"
 },
+   "Muhammad": {
+   "password": "$2y$12$/QJjgGvTM4xaHKo45s8EX.58q5CzBqfjoNqwgWl4UcCmma9QJTWLq",
+   "devices": ["M2010J19CG902D5BEFDB6E8BE8"],
+   "expiry": "06-02-2025 12:00 PM"
+},
 }
    
