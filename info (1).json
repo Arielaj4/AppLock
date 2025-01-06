@@ -439,5 +439,10 @@
    "devices": ["CPH2631C12926274E2A846A"],
    "expiry": "06-02-2025 12:00 PM"
 },
+   "Miftahul": {
+   "password": "$2y$12$dxbVhd.etuX2w6Fk3nVg..Oi3BxlqJcLEo2QdLz7xFcg1IIJWcs3q",
+   "devices": ["RMX1911085BC40E20F5C604"],
+   "expiry": "06-02-2025 12:00 PM"
+},
 }
    
