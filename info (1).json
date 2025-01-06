@@ -19,11 +19,6 @@
    "devices": ["VIVO1918EDAC5D3DEE960F64"],
    "expiry": "23-01-2025 12:00 PM"
 },
-   "Fajar": {
-   "password": "$2y$12$dWQbJoBZ39nHZtAh/9QBE.VXNrBlbJujGl1F5blFKSmm7syisOODC",
-   "devices": ["CPH2127FD67C4FC74E5D311"],
-   "expiry": "23-01-2025 12:00 PM"
-},
    "Safrizal": {
    "password": "$2y$12$qYoo9.4g.o7fuzlgAjHyeeFOpxKT/1cdir/KL8wAvzUUtmpCA27Ee",
    "devices": ["SM-A135F2BAD6C417565629C"],
@@ -433,6 +428,11 @@
    "password": "$2y$12$3Hxuhu9AHx45MmS55wbOzu3L28oRTMJ6yAiGkRT2qQFspONAL9gFe",
    "devices": ["SM-A315G1459F5AA8DA52F75"],
    "expiry": "05-02-2025 12:00 PM"
+},
+   "Fajar": {
+   "password": "$2y$12$tapNYW5ztlyq00ajTAVk0O59j.cak1N2EjcgeELQbw/T7cc62zsp2",
+   "devices": ["SM-A225F4873E82DCCB2A4D5"],
+   "expiry": "23-01-2025 12:00 PM"
 },
 }
    
