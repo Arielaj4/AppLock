@@ -204,11 +204,6 @@
    "devices": ["CPH2471A7EE4BBE5945A96D"],
    "expiry": "30-01-2025 12:00 PM"
 },
-   "Bobob": {
-   "password": "$2y$12$pvGXo2m2/98lneC4beMuO.AVDuIxvWiaAvbhe1TKvzug8d06Yxja.",
-   "devices": ["SM-A065FC7AE0836E80213F4"],
-   "expiry": "30-01-2025 12:00 PM"
-},
    "Daeng": {
    "password": "$2y$12$ze5fzgY7mWb3zsQVbWHMPOdJSzfzyuJbBpTtROzefFPbOlRAVUikm",
    "devices": ["CPH2477B418EB9D1AC455D5"],
