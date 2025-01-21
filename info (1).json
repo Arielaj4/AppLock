@@ -454,5 +454,10 @@
    "devices": ["VIVO1814HYMJJ79LNRR8F6BQ"],
    "expiry": "07-02-2025 12:00 PM"
 },
+   "Kaka2": {
+   "password": "$2y$12$FQyvKNcqTIPkI1N5JHsDO.UnmjEPRnjrSVWLJb5khnml85x/40y7i",
+   "devices": ["M2004J19C9DF2B26FF63437A9"],
+   "expiry": "31-01-2025 12:00 PM"
+},
 }
    
